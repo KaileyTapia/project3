@@ -1,1 +1,169 @@
+#border {
+    border: 3px solid darkred;
+    background-image: url("https://www.gporetro.com/assets/img/products/gpo-746-rotary_06_b.jpg");
+    background-repeat: repeat;
+    background-size: 9em;
+}
 
+#resume-wrap {
+    text-align: center;
+    background-color: lightpink;
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#resume-wrap li {
+    list-style-type: none;
+}
+
+#resume_name h1 {
+    border: 3px solid darkred;
+    margin: 20px 250px 20px;
+}
+
+#main-navbar,
+#nav2,
+#nav3 {
+    background-color: rgb(255, 177, 9);
+    overflow: hidden;
+}
+
+#navbar-container,
+#nav2-container,
+#nav3-container {
+    position: relative;
+    float: left;
+    width: 100%;
+    border: 0.5px dotted white;
+}
+
+#navbar-container ul,
+#nav2-container ul,
+#nav3-container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 50%;
+    float: left;
+}
+
+#navbar-container ul li,
+#nav2-container ul li,
+#nav3-container ul li {
+    list-style-type: none;
+    float: left;
+    position: relative;
+    right: 50%;
+    display: block;
+}
+
+#navbar-container li:hover,
+#nav2-container li:hover,
+#nav3-container li:hover {
+    background-color: rgb(231, 91, 36);
+}
+
+#navbar-container li a,
+#nav2-container li a,
+#nav3-container li a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+#onpage,
+#onpage2,
+#onpage3 {
+    text-decoration: underline overline;
+}
+
+#recipe-wrap {
+    background-color: rgb(166, 255, 166);
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 18px;
+    color: rgb(21, 105, 28);
+}
+
+.step1,
+.step2,
+.step3,
+.tadah {
+    position: relative;
+    left: 10%;
+}
+
+.intro {
+    text-align: center;
+}
+
+#border2 {
+    border: 3px solid rgb(37, 131, 45);
+    background-image: url("https://cimg1.ibsrv.net/cimg/www.skincareguide.com/609x375_85-1/801/shutterstock_341830076-204801.jpg");
+    opacity: 85%;
+    background-repeat: repeat;
+}
+
+#recipe_name h1 {
+    border: 3px solid rgb(37, 131, 45);
+    margin: 20px 250px 20px;
+}
+
+#soccer-wrap {
+    background-color: rgb(253, 203, 75);
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(196, 57, 6);
+    font-size: 17px;
+}
+
+#border3 {
+    border: 3px solid rgb(196, 57, 6);
+    background-image: url("https://assets-global.website-files.com/582a306e0eb4d1534479cbf6/58a4669bcb3e70354e200bd5_Sports_Soccer_March2017_667x1000.jpg");
+    background-repeat: repeat;
+    background-size: 9em;
+}
+
+#border,
+#border2,
+#border3 {
+    margin: 1cm;
+}
+
+#ibody {
+    background-color: aqua;
+}
+
+#ibody2 {
+    background-color: rgb(206, 76, 76);
+    opacity: 85%;
+}
+
+#ibody3 {
+    background-color: rgb(207, 80, 30);
+    opacity: 85%;
+}
+
+#wrapper {
+    width: 850px;
+    height: 600px;
+    background-color: rgb(123, 218, 255);
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 100px;
+}
+
+#canvas {
+    width: 700px;
+    height: 500px;
+    background-color: #ccc;
+    margin: 30px auto;
+}
