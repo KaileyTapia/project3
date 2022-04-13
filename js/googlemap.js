@@ -36,24 +36,6 @@ function init() {
             marker.setAnimation(google.maps.Animation.BOUNCE);
         }
     }
-    /*var triangleCooeds = [
-        { lat: 31.236396705111353, lng: 121.50207215816889 },
-        { lat: 31.234800497350754, lng: 121.50251740483209 },
-        { lat: 31.234368348946685, lng: 121.49978112087159 },
-        { lat: 31.236675649758745, lng: 121.49950448106289 },
-    ];
-
-    var bermudaTriangle = new google.maps.Polygon({
-        paths: triangleCooeds,
-        strokeColor: "#ff0000",
-        strokeOpacity: 0.8,
-        strokeWeight: 2,
-        fillColor: "#ff0000",
-        fillOpacity: 0.1,
-
-    });
-    bermudaTriangle.setMap(myMap);*/
-
 
 }
 
