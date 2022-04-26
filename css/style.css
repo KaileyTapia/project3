@@ -184,3 +184,13 @@
         opacity: 90%;
     }
 }
+
+#gmtitle {
+    text-align: center;
+    color: rgb(250, 155, 12);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#ibody4 {
+    background-color: rgb(255, 229, 142);
+}
