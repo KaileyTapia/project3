@@ -173,7 +173,8 @@
     h1 {
         background-color: rgb(86, 255, 241);
         opacity: 80%;
-        color: rgb(255, 177, 9)
+        color: rgb(255, 177, 9);
+        font-family: Tahoma, Geneva, Verdana;
     }
 }
 
@@ -182,6 +183,9 @@
         color: rgb(189, 0, 110);
         font-weight: bold;
         opacity: 90%;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: black;
+        
     }
 }
 
